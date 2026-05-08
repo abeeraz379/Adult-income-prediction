@@ -7,6 +7,10 @@ Target filed: Income
 -- The income is divide into two classes: <=50K and >50K
 Number of attributes: 14
 -- These are the demographics and other features to describe a person
+# Feature Importance 
+<img width="594" height="547" alt="تنزيل (1)" src="https://github.com/user-attachments/assets/8129eca9-8b71-42d6-82f7-1ebbe74fa95e" />
+# Permutation importance
+<img width="522" height="790" alt="تنزيل" src="https://github.com/user-attachments/assets/cfa60d76-63ea-4345-9b79-5dc44d36927d" />
 
 # Model insight
 “The bar plot indicates that the >50K income group has a higher average age than the <=50K group. This suggests that age may be positively related to income in this dataset, possibly because older individuals have more work experience and career progression.”
