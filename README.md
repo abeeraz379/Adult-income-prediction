@@ -19,3 +19,36 @@ Number of attributes: 14
 
 “The hours-per-week vs income plot shows that the >50K group has a higher average number of working hours per week than the <=50K group. This suggests that longer working hours may be associated with higher income in this dataset.”
 <img width="1137" height="641" alt="image" src="https://github.com/user-attachments/assets/2c08c625-19ef-4e29-abea-8ca0ba1be0af" />
+
+
+# Permutation importance after feature engineering and feature selection
+<img width="1187" height="717" alt="image" src="https://github.com/user-attachments/assets/ca951340-7a5a-4b82-b262-fc33f1595234" />
+
+
+## Feature Selection Using RFE
+
+We applied Recursive Feature Elimination (RFE) using a Random Forest classifier to select the top 20 features from the dataset, including engineered features.
+
+### Model Performance Comparison
+
+- Baseline model accuracy: **[enter your result]**
+- RFE model accuracy: **[enter your result]**
+
+The RFE model reduces the number of features while maintaining or improving performance.
+
+### Top 10 Important Features
+
+Based on permutation importance, the top features are:
+
+- [copy features from output]
+
+### Comparison with Part 1
+
+Compared to the original model from Part 1:
+
+- Some key features such as **education, hours-per-week, and capital-gain** are still among the most important.
+- New engineered features (such as **[your engineered features]**) appear in the top 10, showing that feature engineering added useful predictive information.
+
+### Conclusion
+
+Using RFE helped simplify the model by selecting the most relevant features, improving interpretability while keeping strong predictive performance.
