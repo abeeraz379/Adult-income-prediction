@@ -1,6 +1,9 @@
 # Adult-income-prediction
-
+- By : ABeer Al-Zebda | Ml Engineer
+  
 An individual’s annual income is influenced by various factors. Intuitively, it depends on characteristics such as education level, age, gender, occupation, and others.
+
+<img width="511" height="316" alt="Screenshot 2026-05-17 112602" src="https://github.com/user-attachments/assets/8897c712-903a-44a8-bd2a-e3aa541f87c4" />
 
 ### Fields
 
